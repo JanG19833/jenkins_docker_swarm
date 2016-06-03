@@ -1,0 +1,1 @@
+# This repository holds an inital jenkins docker swarm configuration
